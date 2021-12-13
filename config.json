@@ -1,0 +1,9 @@
+{
+	"ip":"2.tcp.ngrok.io",
+	"port": 17240,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register hakdog",
+	"login-cmd":"/login hakdog"
+}
